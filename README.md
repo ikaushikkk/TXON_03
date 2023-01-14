@@ -1,1 +1,1 @@
-# LGMVIP
+A basic To-Do List has been craeted here witht he help of HTML, CSS and JavaScript. Here we have provided with the functionality of adding tasks, deleting tasks and even modifying the tasks once they have been aded. 
